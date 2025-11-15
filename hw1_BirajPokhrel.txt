@@ -1,0 +1,31 @@
+Problem 1:
+Type in a double value: 5.6
+Divided 2 times before num <= 2
+
+
+
+
+Problem 2:
+Enter the number of values: 5
+Enter 5 numbers: 
+3.1
+4
+2.12311241
+4
+5
+minimum: 2.12311
+maximum: 5
+average: 3.64462
+
+
+
+
+
+Problem 3:
+Perfect numbers between 1 and 9999:
+6
+28
+496
+8128
+
+Found 4 perfect numbers total.
